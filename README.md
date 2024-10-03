@@ -1,4 +1,4 @@
-***Olá, me chamo Luis Gustavo, tenho 16 anos. Nasci em Goiânia, mas, atualmente morando em chácara perto de Bela Vista de Goiás.***
+***Olá, me chamo Luis Gustavo, tenho 17 anos. Nasci em Goiânia, mas, atualmente morando em chácara perto de Bela Vista de Goiás.***
 
 Cursando **programação** no Ensino médio na **escola CEPI Pedro Vieiria de Januário**. Estou no 2-Ano do ensino médio.
 
