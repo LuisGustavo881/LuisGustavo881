@@ -1,4 +1,4 @@
-***Olá, me chamo Luis Gustavo, tenho 17 anos.
+Olá, me chamo Luis Gustavo, tenho 17 anos.
 
 Cursando **programação** **front-and** no Ensino médio na **escola CEPI Pedro Vieiria de Januário**. Estou no 2-Ano do ensino médio.
 
